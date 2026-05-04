@@ -3,4 +3,7 @@
 3. pumunta sa file ng cloned repo using - cd "file name"
 4. after nag check ng status ng local using - git status
 5. set up ng username at user email using - git user.name "My name" at user.email " email ng user "
-6.
+6. nag git add ako kada change ko dun sa file na ininsert q locally - git add <file name>
+7. after mag git add, nag git commit ako with a message using - git commit -m "message"
+8. after mag commit nag git push ako using - git push origin
+9 after non nag show na sa remote repo ko yung file na inadd ko locally
