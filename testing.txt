@@ -1,0 +1,6 @@
+1. nag gawa test repo sa remote 
+2. nag clone ng repo from remote to local using - git clone <link ng repo>
+3. pumunta sa file ng cloned repo using - cd "file name"
+4. after nag check ng status ng local using - git status
+5. set up ng username at user email using - git user.name "My name" at user.email " email ng user "
+6.
