@@ -7,3 +7,12 @@
 7. after mag git add, nag git commit ako with a message using - git commit -m "message"
 8. after mag commit nag git push ako using - git push origin
 9 after non nag show na sa remote repo ko yung file na inadd ko locally
+
+
+
+to push in remote repo
+need to clone first from remote to local
+after that ay need naman i git add yung mga changes para ma track sya
+after matrack sya need naman i git commit para ma ready for git push after 
+***NOTE****
+good practice ang git status at ang git fetch to check if may changes 
